@@ -1,18 +1,18 @@
-# 👋 Hi, I'm Mayekiu Vicent  
+#  Hi, I'm Mayekiu Vicent  
 
-🎓 **Computer Science Student** at **Kampala International University (KIU)**  
-💻 Passionate about **Web Development**, **Artificial Intelligence**, **Data Science**, and **Cybersecurity**  
-📫 Reach me at **mayekuvicent4@gmail.com**
+ **Computer Science Student** at **Kampala International University (KIU)**  
+ Passionate about **Web Development**, **Artificial Intelligence**, **Data Science**, and **Cybersecurity**  
+ Reach me at **mayekuvicent4@gmail.com**
 
 ---
 
-## 🚀 About Me
+##  About Me
 I’m an enthusiastic and curious computer science student who loves exploring how technology can solve real-world problems — especially in healthcare.  
 I enjoy solving coding challenges, learning new tools, and collaborating on innovative tech projects.
 
 ---
 
-## 🧠 What I’m Learning
+##  What I’m Learning
 - Advanced **Web Development** (Front-end & Back-end)
 - **AI** and **Machine Learning** fundamentals  
 - **Data Analysis** using Python and SQL  
@@ -20,9 +20,9 @@ I enjoy solving coding challenges, learning new tools, and collaborating on inno
 
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
-### 🧩 Programming & Markup
+###  Programming & Markup
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -33,7 +33,7 @@ I enjoy solving coding challenges, learning new tools, and collaborating on inno
 
 ---
 
-## 🌟 Current Goals
+##  Current Goals
 - Build impactful **healthcare tech solutions**  
 - Contribute to **open-source projects**  
 - Strengthen **problem-solving** through coding competitions  
@@ -41,14 +41,14 @@ I enjoy solving coding challenges, learning new tools, and collaborating on inno
 
 ---
 
-## 🧩 Fun Facts
-- 💡 I love solving coding challenges!  
-- ❤️ I’m passionate about creating tech solutions that improve lives.  
-- 🌱 Always learning something new every week.
+##  Fun Facts
+-  I love solving coding challenges!  
+-  I’m passionate about creating tech solutions that improve lives.  
+-  Always learning something new every week.
 
 ---
 
-## 📊 GitHub Stats & Activity
+##  GitHub Stats & Activity
 
 ![Vicent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayekiu-vicent&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayekiu-vicent&layout=compact&theme=tokyonight)
@@ -57,9 +57,9 @@ I enjoy solving coding challenges, learning new tools, and collaborating on inno
 
 ---
 
-## 🤝 Let's Connect!
-🌐 **Portfolio / GitHub:** [github.com/mayekiu-vicent](https://github.com/mayekiu-vicent)  
-📧 **Email:** [mayekuvicent4@gmail.com](mailto:mayekuvicent4@gmail.com)  
+##  Let's Connect!
+ **Portfolio / GitHub:** [github.com/mayekiu-vicent](https://github.com/mayekiu-vicent)  
+ **Email:** [mayekuvicent4@gmail.com](mailto:mayekuvicent4@gmail.com)  
 
 ---
 
